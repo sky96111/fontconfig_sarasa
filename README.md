@@ -1,5 +1,5 @@
 # fontconfig_sarasa
-A set of fontconfig which help you set CJK fonts to fall back to Sarasa Gothic properly.
+A set of fontconfig which help you set CJK fonts to fallback to Sarasa Gothic properly.
 
 ## Usage
 1. install Sarasa Gothic fonts https://github.com/be5invis/Sarasa-Gothic
